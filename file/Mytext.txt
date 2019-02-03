@@ -1,0 +1,2131 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- __ _ _ _ __| |_ (_)__ _____
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+  <head>
+    <title>Full text of &quot;Round the Red Lamp: Being Facts and Fancies of Medical Life&quot;</title>
+
+          <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    
+        <meta name="google-site-verification" content="Q2YSouphkkgHkFNP7FgAkc4TmBs1Gmag3uGNndb53B8" />
+    <meta name="google-site-verification" content="bpjKvUvsX0lxfmjg19TLblckWkDpnptZEYsBntApxUk" />
+
+    <script>window.archive_setup=[]</script>
+        <meta charset="UTF-8">    <script src="//archive.org/includes/jquery-1.10.2.min.js?v1.10.2" type="text/javascript"></script>
+            <script src="//archive.org/includes/analytics.js?v=bd740c8" type="text/javascript"></script>
+
+    <script>
+      'use strict';
+      if ('archive_analytics' in window) {
+                  archive_analytics.service = "ao_2";
+        
+        archive_analytics.send_pageview_on_load({
+                      mediaType: "texts",
+                  });
+
+        archive_analytics.process_url_events(window.location);
+      }
+    </script>
+        <script src="//archive.org/includes/bootstrap.min.js?v3.0.0" type="text/javascript"></script>
+    <script src="//archive.org/includes/node_modules/react/dist/react.min.js?v15.1.0" type="text/javascript"></script>
+    <script src="//archive.org/includes/node_modules/react-dom/dist/react-dom.min.js?v15.1.0" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/js/polyfill.min.js?v=bd740c8" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/js/archive.min.js?v=bd740c8" type="text/javascript"></script>
+    <link href="//archive.org/includes/build/css/archive.min.css?v=bd740c8" rel="stylesheet" type="text/css"/>
+    <link rel="SHORTCUT ICON" href="https://archive.org/images/glogo.jpg"/>
+      </head>
+  <body class="navia ">
+    <a href="#maincontent" class="hidden-for-screen-readers">Skip to main content</a>
+
+    <!-- Wraps all page content -->
+    <div id="wrap"
+          >
+              
+
+        <div id="navwrap1">
+          <div id="navwrap2">
+
+            <div id="nav-tophat" class="collapse">
+                                                                <div class="row toprow web" style="max-width:1000px;margin:auto;">
+                    <div class="col-xs-12">
+                      <div class="wayback-txt">
+                        Search the history of over 345 billion                        <a style="display:inline"
+                          href="https://blog.archive.org/2016/10/23/defining-web-pages-web-sites-and-web-captures/"
+                          >web pages</a> on the Internet.
+                      </div>
+                      <div class="roundbox7 wayback-main">
+                        <div class="row">
+                          <div class="col-sm-6" style="padding-left:0; padding-right:0;">
+                            <a style="padding-bottom:0" href="https://archive.org/web/"
+                              ><img src="https://archive.org/images/WaybackLogoSmall.png" alt="Wayback Machine"/></a>
+                          </div>
+                          <div class="col-sm-6" style="padding-top:13px;">
+                            <form style="position:relative;">
+                              <span class="iconochive-search"  aria-hidden="true"></span><span class="sr-only">search</span>                              <label for="nav-wb-url" class="sr-only">Search the Wayback Machine</label>
+                              <input id="nav-wb-url" class="form-control input-sm roundbox20" type="text"
+                                placeholder="enter URL or keywords" name="url" autocomplete="off"
+                                onclick="$(this).css('padding-left','').parent().find('.iconochive-search').hide()"/>
+                            </form>
+                          </div>
+                        </div><!--/.row-->
+                      </div><!--/.wayback-main-->
+                    </div>
+                  </div><!--./row-->
+
+                                                                                <div class="row toprow fivecolumns texts">
+
+                                                                <div class="col-sm-2 col-xs-7 col-sm-push-4">
+                                                  <div class="linx">
+                            <h5>Featured</h5>
+                            <a href="https://archive.org/details/texts"><span class="iconochive-texts"  aria-hidden="true"></span><span class="sr-only">texts</span> All Texts</a>
+                            <a href="https://archive.org/search.php?query=mediatype:texts&sort=-publicdate"
+                              ><span class="iconochive-latest"  aria-hidden="true"></span><span class="sr-only">latest</span> This Just In</a>
+                                                          <a href="https://archive.org/details/smithsonian" title="Smithsonian Libraries">Smithsonian Libraries</a>                                                          <a href="https://archive.org/details/fedlink" title="FEDLINK (US)">FEDLINK (US)</a>                                                          <a href="https://archive.org/details/genealogy" title="Genealogy">Genealogy</a>                                                          <a href="https://archive.org/details/lincolncollection" title="Lincoln Collection">Lincoln Collection</a>                                                          <a href="https://archive.org/details/additional_collections" title="Additional Collections">Additional Collections</a>                                                      </div>
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-2">
+                                                  <div class="widgets">
+                                        <center class="items_list">
+              <div class="items_list_img">
+                <a href="https://archive.org/details/inlibrary?sort=-publicdate" style="background-image: url('https://archive.org/images/book-lend.png');"
+                  aria-hidden="true" data-event-click-tracking="DetailsPage|CollectionLink"></a>
+              </div>
+              <a class="stealth boxy-label"
+                data-event-click-tracking="DetailsPage|CollectionLink" href="https://archive.org/details/inlibrary?sort=-publicdate">Books to Borrow</a>
+            </center>
+                                    </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-7 col-sm-push-2">
+                                                  <div class="linx ">
+                                                          <h5>Top</h5>
+                                                                                      <a href="https://archive.org/details/americana" title="American Libraries">American Libraries</a>                                                          <a href="https://archive.org/details/toronto" title="Canadian Libraries">Canadian Libraries</a>                                                          <a href="https://archive.org/details/universallibrary" title="Universal Library">Universal Library</a>                                                          <a href="https://archive.org/details/opensource" title="Community Texts">Community Texts</a>                                                          <a href="https://archive.org/details/gutenberg" title="Project Gutenberg">Project Gutenberg</a>                                                          <a href="https://archive.org/details/biodiversity" title="Biodiversity Heritage Library">Biodiversity Heritage Library</a>                                                          <a href="https://archive.org/details/iacl" title="Children's Library">Children's Library</a>                                                      </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-4">
+                                                  <div class="widgets">
+                                        <center class="items_list">
+              <div class="items_list_img">
+                <a href="https://openlibrary.org" style="background-image: url('https://archive.org/images/widgetOL.png');"
+                  aria-hidden="true" data-event-click-tracking="DetailsPage|CollectionLink"></a>
+              </div>
+              <a class="stealth boxy-label"
+                data-event-click-tracking="DetailsPage|CollectionLink" href="https://openlibrary.org">Open Library</a>
+            </center>
+                                    </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-7">
+                                                  <div class="linx linx-topped">
+                                                                                      <a href="https://archive.org/details/booksbylanguage" title="Books by Language">Books by Language</a>                                                      </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                    
+                  </div><!--/.row-->
+                                                                                <div class="row toprow fivecolumns movies">
+
+                                                                <div class="col-sm-2 col-xs-7 col-sm-push-4">
+                                                  <div class="linx">
+                            <h5>Featured</h5>
+                            <a href="https://archive.org/details/movies"><span class="iconochive-movies"  aria-hidden="true"></span><span class="sr-only">movies</span> All Video</a>
+                            <a href="https://archive.org/search.php?query=mediatype:movies&sort=-publicdate"
+                              ><span class="iconochive-latest"  aria-hidden="true"></span><span class="sr-only">latest</span> This Just In</a>
+                                                          <a href="https://archive.org/details/prelinger" title="Prelinger Archives">Prelinger Archives</a>                                                          <a href="https://archive.org/details/democracy_now_vid" title="Democracy Now!">Democracy Now!</a>                                                          <a href="https://archive.org/details/occupywallstreet" title="Occupy Wall Street">Occupy Wall Street</a>                                                          <a href="https://archive.org/details/nsa" title="TV NSA Clip Library">TV NSA Clip Library</a>                                                      </div>
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-2">
+                                                  <div class="widgets">
+                            <center class="items_list">        <div class="items_list_img">
+          <a
+            href="https://archive.org/details/tv"
+            style="background-image: url('https://archive.org/services/img/tv');"
+            aria-hidden="true"
+            data-event-click-tracking="DetailsPage|CollectionLink"
+          ></a>
+        </div>
+        <a class="stealth boxy-label" data-event-click-tracking="DetailsPage|CollectionLink" href="https://archive.org/details/tv">TV News</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-7 col-sm-push-2">
+                                                  <div class="linx ">
+                                                          <h5>Top</h5>
+                                                                                      <a href="https://archive.org/details/animationandcartoons" title="Animation &amp; Cartoons">Animation & Cartoons</a>                                                          <a href="https://archive.org/details/artsandmusicvideos" title="Arts &amp; Music">Arts & Music</a>                                                          <a href="https://archive.org/details/opensource_movies" title="Community Video">Community Video</a>                                                          <a href="https://archive.org/details/computersandtechvideos" title="Computers &amp; Technology">Computers & Technology</a>                                                          <a href="https://archive.org/details/culturalandacademicfilms" title="Cultural &amp; Academic Films">Cultural & Academic Films</a>                                                          <a href="https://archive.org/details/ephemera" title="Ephemeral Films">Ephemeral Films</a>                                                          <a href="https://archive.org/details/moviesandfilms" title="Movies">Movies</a>                                                      </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-4">
+                                                  <div class="widgets">
+                            <center class="items_list">        <div class="items_list_img">
+          <a
+            href="https://archive.org/details/911"
+            style="background-image: url('https://archive.org/services/img/911');"
+            aria-hidden="true"
+            data-event-click-tracking="DetailsPage|CollectionLink"
+          ></a>
+        </div>
+        <a class="stealth boxy-label" data-event-click-tracking="DetailsPage|CollectionLink" href="https://archive.org/details/911">Understanding 9/11</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-7">
+                                                  <div class="linx linx-topped">
+                                                                                      <a href="https://archive.org/details/newsandpublicaffairs" title="News &amp; Public Affairs">News & Public Affairs</a>                                                          <a href="https://archive.org/details/spiritualityandreligion" title="Spirituality &amp; Religion">Spirituality & Religion</a>                                                          <a href="https://archive.org/details/sports" title="Sports Videos">Sports Videos</a>                                                          <a href="https://archive.org/details/television" title="Television">Television</a>                                                          <a href="https://archive.org/details/gamevideos" title="Videogame Videos">Videogame Videos</a>                                                          <a href="https://archive.org/details/vlogs" title="Vlogs">Vlogs</a>                                                          <a href="https://archive.org/details/youth_media" title="Youth Media">Youth Media</a>                                                      </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                    
+                  </div><!--/.row-->
+                                                                                <div class="row toprow fivecolumns audio">
+
+                                                                <div class="col-sm-2 col-xs-7 col-sm-push-4">
+                                                  <div class="linx">
+                            <h5>Featured</h5>
+                            <a href="https://archive.org/details/audio"><span class="iconochive-audio"  aria-hidden="true"></span><span class="sr-only">audio</span> All Audio</a>
+                            <a href="https://archive.org/search.php?query=mediatype:audio&sort=-publicdate"
+                              ><span class="iconochive-latest"  aria-hidden="true"></span><span class="sr-only">latest</span> This Just In</a>
+                                                          <a href="https://archive.org/details/GratefulDead" title="Grateful Dead">Grateful Dead</a>                                                          <a href="https://archive.org/details/netlabels" title="Netlabels">Netlabels</a>                                                          <a href="https://archive.org/details/oldtimeradio" title="Old Time Radio">Old Time Radio</a>                                                          <a href="https://archive.org/details/78rpm" title="78 RPMs and Cylinder Recordings">78 RPMs and Cylinder Recordings</a>                                                      </div>
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-2">
+                                                  <div class="widgets">
+                            <center class="items_list">        <div class="items_list_img">
+          <a
+            href="https://archive.org/details/etree"
+            style="background-image: url('https://archive.org/services/img/etree');"
+            aria-hidden="true"
+            data-event-click-tracking="DetailsPage|CollectionLink"
+          ></a>
+        </div>
+        <a class="stealth boxy-label" data-event-click-tracking="DetailsPage|CollectionLink" href="https://archive.org/details/etree">Live Music Archive</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-7 col-sm-push-2">
+                                                  <div class="linx ">
+                                                          <h5>Top</h5>
+                                                                                      <a href="https://archive.org/details/audio_bookspoetry" title="Audio Books &amp; Poetry">Audio Books & Poetry</a>                                                          <a href="https://archive.org/details/opensource_audio" title="Community Audio">Community Audio</a>                                                          <a href="https://archive.org/details/audio_tech" title="Computers &amp; Technology">Computers & Technology</a>                                                          <a href="https://archive.org/details/audio_music" title="Music, Arts &amp; Culture">Music, Arts & Culture</a>                                                          <a href="https://archive.org/details/audio_news" title="News &amp; Public Affairs">News & Public Affairs</a>                                                          <a href="https://archive.org/details/audio_foreign" title="Non-English Audio">Non-English Audio</a>                                                          <a href="https://archive.org/details/radioprograms" title="Radio Programs">Radio Programs</a>                                                      </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-4">
+                                                  <div class="widgets">
+                            <center class="items_list">        <div class="items_list_img">
+          <a
+            href="https://archive.org/details/librivoxaudio"
+            style="background-image: url('https://archive.org/services/img/librivoxaudio');"
+            aria-hidden="true"
+            data-event-click-tracking="DetailsPage|CollectionLink"
+          ></a>
+        </div>
+        <a class="stealth boxy-label" data-event-click-tracking="DetailsPage|CollectionLink" href="https://archive.org/details/librivoxaudio">Librivox Free Audiobook</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-7">
+                                                  <div class="linx linx-topped">
+                                                                                      <a href="https://archive.org/details/audio_religion" title="Spirituality &amp; Religion">Spirituality & Religion</a>                                                          <a href="https://archive.org/details/podcasts" title="Podcasts">Podcasts</a>                                                      </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                    
+                  </div><!--/.row-->
+                                                                                <div class="row toprow fivecolumns software">
+
+                                                                <div class="col-sm-2 col-xs-7 col-sm-push-4">
+                                                  <div class="linx">
+                            <h5>Featured</h5>
+                            <a href="https://archive.org/details/software"><span class="iconochive-software"  aria-hidden="true"></span><span class="sr-only">software</span> All Software</a>
+                            <a href="https://archive.org/search.php?query=mediatype:software&sort=-publicdate"
+                              ><span class="iconochive-latest"  aria-hidden="true"></span><span class="sr-only">latest</span> This Just In</a>
+                                                          <a href="https://archive.org/details/tosec" title="Old School Emulation">Old School Emulation</a>                                                          <a href="https://archive.org/details/softwarelibrary_msdos_games" title="MS-DOS Games">MS-DOS Games</a>                                                          <a href="https://archive.org/details/historicalsoftware" title="Historical Software">Historical Software</a>                                                          <a href="https://archive.org/details/classicpcgames" title="Classic PC Games">Classic PC Games</a>                                                          <a href="https://archive.org/details/softwarelibrary" title="Software Library">Software Library</a>                                                      </div>
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-2">
+                                                  <div class="widgets">
+                            <center class="items_list">        <div class="items_list_img">
+          <a
+            href="https://archive.org/details/internetarcade"
+            style="background-image: url('https://archive.org/services/img/internetarcade');"
+            aria-hidden="true"
+            data-event-click-tracking="DetailsPage|CollectionLink"
+          ></a>
+        </div>
+        <a class="stealth boxy-label" data-event-click-tracking="DetailsPage|CollectionLink" href="https://archive.org/details/internetarcade">Internet Arcade</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-7 col-sm-push-2">
+                                                  <div class="linx ">
+                                                          <h5>Top</h5>
+                                                                                      <a href="https://archive.org/details/open_source_software" title="Community Software">Community Software</a>                                                          <a href="https://archive.org/details/softwarelibrary_msdos" title="MS-DOS">MS-DOS</a>                                                          <a href="https://archive.org/details/cd-roms" title="CD-ROM Software">CD-ROM Software</a>                                                          <a href="https://archive.org/details/kodi_archive" title="Kodi Archive and Support File">Kodi Archive and Support File</a>                                                          <a href="https://archive.org/details/cdromsoftware" title="CD-ROM Software Library">CD-ROM Software Library</a>                                                          <a href="https://archive.org/details/apkarchive" title="APK">APK</a>                                                          <a href="https://archive.org/details/softwaresites" title="Software Sites">Software Sites</a>                                                      </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-4">
+                                                  <div class="widgets">
+                            <center class="items_list">        <div class="items_list_img">
+          <a
+            href="https://archive.org/details/consolelivingroom"
+            style="background-image: url('https://archive.org/services/img/consolelivingroom');"
+            aria-hidden="true"
+            data-event-click-tracking="DetailsPage|CollectionLink"
+          ></a>
+        </div>
+        <a class="stealth boxy-label" data-event-click-tracking="DetailsPage|CollectionLink" href="https://archive.org/details/consolelivingroom">Console Living Room</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-7">
+                                                  <div class="linx linx-topped">
+                                                                                      <a href="https://archive.org/details/vintagesoftware" title="Vintage Software">Vintage Software</a>                                                          <a href="https://archive.org/details/tucows" title="Tucows Software Library">Tucows Software Library</a>                                                          <a href="https://archive.org/details/cdbbsarchive" title="Shareware CD-ROMs">Shareware CD-ROMs</a>                                                          <a href="https://archive.org/details/softwarelibrary_zx_spectrum" title="ZX Spectrum">ZX Spectrum</a>                                                          <a href="https://archive.org/details/doom-cds" title="DOOM Level CD">DOOM Level CD</a>                                                          <a href="https://archive.org/details/zx_spectrum_library_games" title="ZX Spectrum Library: Games">ZX Spectrum Library: Games</a>                                                          <a href="https://archive.org/details/softwarelibrary_apple" title="Apple Computer">Apple Computer</a>                                                      </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                    
+                  </div><!--/.row-->
+                                                                                <div class="row toprow fivecolumns image">
+
+                                                                <div class="col-sm-2 col-xs-7 col-sm-push-4">
+                                                  <div class="linx">
+                            <h5>Featured</h5>
+                            <a href="https://archive.org/details/image"><span class="iconochive-image"  aria-hidden="true"></span><span class="sr-only">image</span> All Image</a>
+                            <a href="https://archive.org/search.php?query=mediatype:image&sort=-publicdate"
+                              ><span class="iconochive-latest"  aria-hidden="true"></span><span class="sr-only">latest</span> This Just In</a>
+                                                          <a href="https://archive.org/details/flickrcommons" title="Flickr Commons">Flickr Commons</a>                                                          <a href="https://archive.org/details/flickr-ows" title="Occupy Wall Street Flickr">Occupy Wall Street Flickr</a>                                                          <a href="https://archive.org/details/coverartarchive" title="Cover Art">Cover Art</a>                                                          <a href="https://archive.org/details/maps_usgs" title="USGS Maps">USGS Maps</a>                                                      </div>
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-2">
+                                                  <div class="widgets">
+                            <center class="items_list">        <div class="items_list_img">
+          <a
+            href="https://archive.org/details/metropolitanmuseumofart-gallery"
+            style="background-image: url('https://archive.org/services/img/metropolitanmuseumofart-gallery');"
+            aria-hidden="true"
+            data-event-click-tracking="DetailsPage|CollectionLink"
+          ></a>
+        </div>
+        <a class="stealth boxy-label" data-event-click-tracking="DetailsPage|CollectionLink" href="https://archive.org/details/metropolitanmuseumofart-gallery">Metropolitan Museum</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-7 col-sm-push-2">
+                                                  <div class="linx ">
+                                                          <h5>Top</h5>
+                                                                                      <a href="https://archive.org/details/nasa">NASA Images</a>                                                          <a href="https://archive.org/details/solarsystemcollection">Solar System Collection</a>                                                          <a href="https://archive.org/details/amesresearchcenterimagelibrary">Ames Research Center</a>                                                      </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-4">
+                                                  <div class="widgets">
+                            <center class="items_list">        <div class="items_list_img">
+          <a
+            href="https://archive.org/details/brooklynmuseum"
+            style="background-image: url('https://archive.org/services/img/brooklynmuseum');"
+            aria-hidden="true"
+            data-event-click-tracking="DetailsPage|CollectionLink"
+          ></a>
+        </div>
+        <a class="stealth boxy-label" data-event-click-tracking="DetailsPage|CollectionLink" href="https://archive.org/details/brooklynmuseum">Brooklyn Museum</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-7">
+                                                  <div class="linx linx-topped">
+                                                                                  </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                    
+                  </div><!--/.row-->
+                                          </div><!--/#nav-tophat-->
+
+
+
+            <div class="navbar navbar-inverse navbar-static-top" role="navigation">
+              <div id="nav-tophat-helper" class="hidden-xs"></div>
+              <ul class="nav navbar-nav navbar-main">
+                                                    <li class="dropdown dropdown-ia pull-left">
+                    <a title="Web" class="navia-link web" data-top-kind="web"
+                      href="https://archive.org/web/" data-toggle="tooltip"
+                      target="_top" data-placement="bottom"><span class="iconochive-web"  aria-hidden="true"></span><span class="sr-only">web</span></a>
+                  </li>
+                                                    <li class="dropdown dropdown-ia pull-left">
+                    <a title="Texts" class="navia-link texts" data-top-kind="texts"
+                      href="https://archive.org/details/texts" data-toggle="tooltip"
+                      target="_top" data-placement="bottom"><span class="iconochive-texts"  aria-hidden="true"></span><span class="sr-only">texts</span></a>
+                  </li>
+                                                    <li class="dropdown dropdown-ia pull-left">
+                    <a title="Video" class="navia-link movies" data-top-kind="movies"
+                      href="https://archive.org/details/movies" data-toggle="tooltip"
+                      target="_top" data-placement="bottom"><span class="iconochive-movies"  aria-hidden="true"></span><span class="sr-only">movies</span></a>
+                  </li>
+                                                    <li class="dropdown dropdown-ia pull-left">
+                    <a title="Audio" class="navia-link audio" data-top-kind="audio"
+                      href="https://archive.org/details/audio" data-toggle="tooltip"
+                      target="_top" data-placement="bottom"><span class="iconochive-audio"  aria-hidden="true"></span><span class="sr-only">audio</span></a>
+                  </li>
+                                                    <li class="dropdown dropdown-ia pull-left">
+                    <a title="Software" class="navia-link software" data-top-kind="software"
+                      href="https://archive.org/details/software" data-toggle="tooltip"
+                      target="_top" data-placement="bottom"><span class="iconochive-software"  aria-hidden="true"></span><span class="sr-only">software</span></a>
+                  </li>
+                                                    <li class="dropdown dropdown-ia pull-left rightmost">
+                    <a title="Image" class="navia-link image" data-top-kind="image"
+                      href="https://archive.org/details/image" data-toggle="tooltip"
+                      target="_top" data-placement="bottom"><span class="iconochive-image"  aria-hidden="true"></span><span class="sr-only">image</span></a>
+                  </li>
+                
+                <li class="navbar-brand-li"><a class="navbar-brand" href="https://archive.org/"
+                  target="_top"><span class="iconochive-logo"  aria-hidden="true"></span><span class="sr-only">logo</span></a></li>
+
+                <li class="nav-hamburger dropdown dropdown-ia pull-right hidden-sm hidden-md hidden-lg">
+                  <div class="container-fluid">
+                    <div class="navbar-header">
+                      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+                              data-target="#nav-hamburger-menu" aria-expanded="false">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                      </button>
+                      <div class="navbar-collapse collapse" id="nav-hamburger-menu" aria-expanded="false">
+                            <ul id="" class="nav navbar-nav">
+      <li><a target="_top" data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/">ABOUT</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php">CONTACT</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org">BLOG</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects">PROJECTS</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php">HELP</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate">DONATE</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php">JOBS</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php">VOLUNTEER</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php">PEOPLE</a></li>
+    </ul>
+                          </div><!-- /.navbar-collapse -->
+                    </div>
+                  </div><!-- /.container-fluid -->
+                </li>
+
+
+
+
+                                  <li id="nav-search" class="dropdown dropdown-ia pull-right">
+                    <a href="https://archive.org/search.php"
+                      onclick="$(this).parents('#nav-search').find('form').submit(); return false"
+                      aria-hidden="true"
+                    ><span class="iconochive-search"  aria-hidden="true"></span><span class="sr-only">search</span></a>
+                    <div class="searchbar">
+                      <form
+                        class="search-form js-search-form"
+                        method="get"
+                        role="search"
+                        action="https://archive.org/searchresults.php"
+                        target="_top"
+                        data-event-form-tracking="TopNav|SearchForm"
+                        data-wayback-machine-search-url="https://web.archive.org/web/*/"
+                      >
+                        <input
+                          id="search-bar-2"
+                          class="js-search-bar"
+                          placeholder="Search"
+                          type="text"
+                          name="search"
+                          value=""
+                          aria-controls="navbar_search_options"
+                          aria-label="Search the Archive. Filters and Advanced Search available below."
+                        />
+
+                              <div
+              id="navbar_search_options"
+            class="search-options js-search-options"
+      aria-expanded="false"
+      aria-label="Search Options"
+      data-keep-open-when-changed="false"
+    >
+      <fieldset>
+                      <label>
+      <input
+        type="radio"
+        name="sin"
+        value=""
+                  checked
+                      >
+      <span>Search metadata</span>
+    </label>
+                          <label>
+      <input
+        type="radio"
+        name="sin"
+        value="TXT"
+                      >
+      <span>Search text contents</span>
+    </label>
+                          <label>
+      <input
+        type="radio"
+        name="sin"
+        value="TV"
+                      >
+      <span>Search TV news captions</span>
+    </label>
+                          <label>
+      <input
+        type="radio"
+        name="sin"
+        value="WEB"
+                      >
+      <span>Search archived web sites</span>
+    </label>
+                  </fieldset>
+
+              <a
+          href="https://archive.org/advancedsearch.php"
+          class="search-options__advanced-search-link"
+          onclick="return AJS.advanced_search(this)"
+        >Advanced Search</a>
+          </div>
+    
+                              <script>AJS.cgi_args = {"ands":[],"minday":"06/04/2009","maxday":"01/06/2019"}</script>
+    
+                        <input type="submit" value="Search"/>
+                      </form>
+                    </div><!--/.searchbar -->
+                  </li>
+                
+                <li class="dropdown dropdown-ia pull-right">
+                  <a href="https://archive.org/create" _target="top" data-toggle="tooltip" data-placement="bottom"
+                     title="Upload"><span class="iconochive-upload"  aria-hidden="true"></span><span class="sr-only">upload</span></a>
+                </li>
+
+
+                <li class="dropdown dropdown-ia pull-right leftmost">
+                                      <a href="https://archive.org/account/login.php" style="padding-right:0" _target="top"
+                      ><span class="iconochive-person"  aria-hidden="true"></span><span class="sr-only">person</span><span class="hidden-xs-span">SIGN IN</span></a>
+                                  </li>
+
+                              </ul>
+
+                  <ul id="nav-abouts" class="">
+      <li><a target="_top" data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/">ABOUT</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php">CONTACT</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org">BLOG</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects">PROJECTS</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php">HELP</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate">DONATE</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php">JOBS</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php">VOLUNTEER</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php">PEOPLE</a></li>
+    </ul>
+                </div><!--/.navbar-->
+          </div><!--#navwrap1-->
+        </div><!--#navwrap2-->
+
+        <!-- Begin page content -->
+        <main id="maincontent">
+          <div class="container container-ia">
+
+                  <h1>
+          Full text of "<a href="/details/roundredlampbei01doylgoog">Round the Red Lamp: Being Facts and Fancies of Medical Life</a>"
+        </h1>
+        <h2 class="pull-right">
+          <small><a href="/details/roundredlampbei01doylgoog">See other formats</a></small>
+        </h2>
+        <br class="clearfix" clear="right"/>
+      <pre>Google 
+
+
+
+This is a digital copy of a book that was preserved for generations on Hbrary shelves before it was carefully scanned by Google as part of a project 
+
+to make the world's books discoverable online. 
+
+It has survived long enough for the copyright to expire and the book to enter the public domain. A public domain book is one that was never subject 
+
+to copyright or whose legal copyright term has expired. Whether a book is in the public domain may vary country to country. Public domain books 
+
+are our gateways to the past, representing a wealth of history, culture and knowledge that's often difficult to discover. 
+
+Marks, notations and other maiginalia present in the original volume will appear in this file - a reminder of this book's long journey from the 
+
+publisher to a library and finally to you. 
+
+Usage guidelines 
+
+Google is proud to partner with libraries to digitize public domain materials and make them widely accessible. Public domain books belong to the 
+public and we are merely their custodians. Nevertheless, this work is expensive, so in order to keep providing this resource, we liave taken steps to 
+prevent abuse by commercial parties, including placing technical restrictions on automated querying. 
+We also ask that you: 
+
++ Make non-commercial use of the files We designed Google Book Search for use by individuals, and we request that you use these files for 
+personal, non-commercial purposes. 
+
++ Refrain fivm automated querying Do not send automated queries of any sort to Google's system: If you are conducting research on machine 
+translation, optical character recognition or other areas where access to a large amount of text is helpful, please contact us. We encourage the 
+use of public domain materials for these purposes and may be able to help. 
+
++ Maintain attributionTht GoogXt "watermark" you see on each file is essential for informing people about this project and helping them find 
+additional materials through Google Book Search. Please do not remove it. 
+
++ Keep it legal Whatever your use, remember that you are responsible for ensuring that what you are doing is legal. Do not assume that just 
+because we believe a book is in the public domain for users in the United States, that the work is also in the public domain for users in other 
+countries. Whether a book is still in copyright varies from country to country, and we can't offer guidance on whether any specific use of 
+any specific book is allowed. Please do not assume that a book's appearance in Google Book Search means it can be used in any manner 
+anywhere in the world. Copyright infringement liabili^ can be quite severe. 
+
+About Google Book Search 
+
+Google's mission is to organize the world's information and to make it universally accessible and useful. Google Book Search helps readers 
+discover the world's books while helping authors and publishers reach new audiences. You can search through the full text of this book on the web 
+
+at |http : //books . google . com/| 
+
+
+
+ROUND THE RED LAMP 
+
+
+
+BEING FACTS AND FANCIES OF 
+MEDICAL LIFE 
+
+
+
+BY 
+
+A. CONAN DOYLE 
+
+AUTHOR OF 
+THE WHITE COMPANY, THE REFUGEES, MICAH CLARKE, ETC. 
+
+
+
+
+SECOND EDITION 
+
+
+
+
+
+
+' • * I V / 
+
+
+
+• . « 
+
+
+
+n . 
+
+
+
+NEW YORK 
+D. APPLETON AND COMPANY 
+
+1894 
+
+
+
+'&lt; 2 3 :1 
+
+'J !  
+
+
+
+COPTRIOHT, 1894, 
+
+By D. APPLETON AND COMPANY. 
+
+
+
+287089 
+
+
+
+V W W 
+
+
+
+* • - •-, * * 
+
+
+
+
+
+
+THE PREFACE. 
+
+[Being an extract from a long and animated correspond- 
+ence with a friend in America.] 
+
+I QUITE recognise the force of your objection 
+that an invalid or a woman in weak health would 
+get no good from stories which attempt to treat 
+some features of medical life with a certain amount 
+of realism. If you deal with this life at all, how- 
+ever, and if you are anxious to make your doc- 
+tors something more than marionettes, it is quite 
+essential that you should paint the darker side, 
+since it is that which is principally presented to 
+the surgeon or physician. He sees many beau- 
+tiful things, it is true, fortitude and heroism, love 
+and self-sacrifice ; but they are all called forth (as 
+our nobler qualities are always called forth) by 
+bitter sorrow and trial. One cannot write of 
+medical life and be merry over it. 
+
+Then why write of it, you may ask ? If a sub- 
+ject is painful why treat it at all ? I answer that 
+it is the province of fiction to treat painful things 
+
+(ili) 
+
+
+
+iv THE PREFACE. 
+
+as well as cheerful ones. The story which wiles 
+away a weary hour fulfils an obviously good pur- 
+pose, but not more so, I hold, than that which 
+helps to emphasise the graver side of life. A tale 
+which may startle the reader out of his usual 
+grooves of thought, and shocks him into serious- 
+ness, plays the part of the alterative and tonic in 
+medicine, bitter to the taste but bracing in the 
+result. There are a few stories in this little col- 
+lection which might have such an effect, and I 
+have so far shared in your feeling that I have 
+reserved them from serial publication. In book- 
+form the reader can see that they are medical 
+stories, and can, if he or she be so minded, avoid 
+
+them. 
+
+Yours very truly, 
+
+A. CoNAN Doyle. 
+
+
+
+P. S. — You ask about the Red Lamp. It is 
+the usual sign of the general practitioner in Eng- 
+land. 
+
+
+
+CONTENTS. 
+
+
+
+PAGE 
+
+Behind the Times 1 
+
+' His First Opeeation 9 
+
+A Straggler of '15 19 
+
+The Third Generation 43 
+
+A False Start 60 
+
+The Curse of Eve 82 
+
+Sweethearts 101 
+
+A Physiologist's Wife Ill 
+
+The Case of Lady Sannox 144 
+
+y A Question of Diplomacy 161 
+
+A Medical Document 186 
+
+Lot No. 249 205 
+
+-:&gt; The Los Amigos Fiasco . 263 
+
+--9- The Doctors op Hoyland 276 
+
+The Surgeon talks 296 
+
+
+
+1% • 
+
+
+
+* b 
+
+
+
+• 9 
+
+J 
+
+■i "* J 
+
+
+
+w ^ -• %, 
+
+
+
+• 3 
+
+
+
+ROUND THE RED LAMP. .. 
+
+
+
+
+
+
+BEHIND THE TIMES. ' : 
+
+My first interview with Dr. James Winter 
+was under dramatic circumstances. It occurred 
+at two in the morning in the bedroom of an old 
+country house. I kicked him twice on the white 
+waistcoat and knocked off his gold spectacles, 
+while he with the aid of a female accomplice 
+stifled my angry cries in a flannel petticoat and 
+thrust me into a warm bath. I am told that one 
+of my parents, who happened to be present, re- 
+marked in a whisper that there was nothing the 
+matter with my lungs. I cannot recall how 
+Dr. Winter looked at the time, for I had other 
+things to think of, but his description of my own 
+appearance is far from flattering. A fluffy head, 
+a body like a trussed goose, very bandy legs, and 
+feet with the soles turned inwards — those are the 
+main items which he can remember. 
+
+From this time onwards the epochs of my life 
+were the periodical assaults which Dr. Winter 
+
+
+
+8 ROUND THE RED LAMP. 
+
+and tell him that I should be obliged to him if he 
+would step round ? " 
+
+She was back with an answer presently. "Dr. 
+Winter will come round in an hour or so, sir ; but 
+he has just been called in to attend Dr. Patter- 
+son." 
+
+
+
+
+
+
+HIS FIRST OPERATION. 
+
+It was the first day of the winter session, and 
+the third year's man was walking with the first 
+year's man. Twelve o'clock was just booming out 
+from the Tron Church. 
+
+* ' Let me see, " said the third year's man. ' ' You 
+have never seen an operation ? " 
+
+^' Never." 
+
+" Then this way, please. This is Rutherford's 
+historic bar. A glass of sherry, please, for this 
+gentleman. You are rather sensitive, are you 
+not?" 
+
+*' My nerves are not very strong, I am afraid." 
+
+" Hum ! Another glass of sherry for this gen- 
+tleman. We are going to an operation now, you 
+know." 
+
+The novice squared his shoulders and made a 
+gallant attempt to look unconcerned. 
+
+" Nothing very bad — eh ? " 
+
+*' Well, yes — pretty bad." 
+
+" An — an amputation ? " 
+
+" No ; it's a bigger affair than that." 
+
+2 (9) 
+
+
+
+t 
+
+s 
+
+
+
+I 
+
+
+
+
+
+
+A STRAGGLER OF '15. 
+
+It was a dull October morning, and heavy, 
+I rolling fog-wreaths lay low over the wet grey 
+roofs of the Woolwich houses. Down in the long, 
+brick-lined streets all was sodden and greasy and 
+cheerless. From the high dark buildings of the 
+arsenal came the whirr of many wheels, the thud- 
+ding of weights, and the buzz and babel of human 
+toil. Beyond, the dwellings of the workingmen, 
+smoke-stained and unlovely, radiated away in a 
+lessening perspective of narrowing road and dwin- 
+dling wall. 
+
+There were few folk in the streets, for the toil- 
+ers had all been absorbed since break of day by the 
+huge smoke-spouting monster, which sucked in the 
+manhood of the town, to belch it forth weary and 
+work-stained every night. Little groups of chil- 
+dren straggled to school, or loitered to peep through 
+the single, front windows at the big, gilt-edged 
+Bibles, balanced upon small, three-legged tables, 
+which were their usual adornment. Stout women, 
+with thick, red arms and dirty aprons, stood upon 
+
+(19) 
+
+
+
+22 ROUXD THE RED LAMP. 
+
+^^ Missus Simpson, Missas Simpson!" cried i 
+cracked and querulous voice from above. 
+
+"That's him!" she cried, nodding her hea( 
+with an air of triumph. "He do go on somethin 
+scandalous. Yes, Mr. Brewster, sir." 
+
+"I want my morning ration, Missus Simpson.' 
+
+"It's just ready, Mr. Brewster, sir." 
+
+"Blessed if he ain't like a baby cryin' for iti 
+pap," said the young woman. 
+
+"I feel as if I could shake his old bones uj 
+sometimes ! " cried Mrs. Simpson viciously. "But 
+who's for a 'arf of four penny ? " 
+
+The whole company were about to shuffle ofl 
+to the public house, when a young girl stepped 
+across the road and touched the housekeeper tim- 
+idly upon the arm. "I think that is No. 56 
+Arsenal View," she said. "Can you tell me U 
+Mr. Brewster lives here ? " 
+
+The housekeei)er looked critically at the new- 
+comer. She was a girl of about twenty, broad- 
+faced and comely, with a tumed-up nose and large, 
+honest grey eyes. Her print dress, her straw hat, 
+with its bunch of glaring poppies, and the bundle 
+she carried, had all a smack of the country. 
+
+"You're Norah Brewster, I s'pose," said Mrs. 
+Simpson, eyeing her up and down with no friendly 
+gaze. 
+
+"Yes, Fve come to look after my Granduncle 
+Gregory." 
+
+
+
+3§ ROcND THE RED LAMP. 
+
+•^^Well, it was a bootiful pup— aye, a well- 
+br^l un, by Jiniini ! Fm cold for lack o' my ra- 
+tions. Sum is good, and so is schnapps, but Fd 
+as lief have tea as either." 
+
+He breathed heavily while he devoured his 
+fvKHi. "" It s a middlin' goodish way you've come,"' 
+§aid he at last* "* Likely the stage left yester- 
+night." 
+
+"^ The what, uncle i " 
+
+''^The coach that bronfirht tou." 
+
+** Xav. I cauEne bv the momin' train." 
+
+''^ Lk^r. now^ think o* that ! You ain't afeard cf 
+thv^ss^ n^ewfeud^ed things ! By Jimini, to think of 
+w« cowiin bT nilivxid like that! What's the 
+wvrtvl a-comin* to ! " 
+
+Ttt^i^c^ wus sileno? for some minutes while 
+XvHuh $;3^t stirring: h^r tea and glancing sideways 
+;i^i^ tt^;&gt; Kui$lt tipts^ and champing jaws of her com- 
+
+^^ \ ou wttKst fcav^ s*?«i a deal o' life, uncle," 
+!j;j^l sitj«?. ^" li Ktia^^ sem a long, long time to 
+
+"^ Xov :50 v«T k»ci^ neither. Fm ninety, come 
+C^^fcviWwwfts : Nx; it vlv^t §eein long since I took the 
+V^:^^\ Aifei litat hiiuK it might have been 
+xwt^Nx^^. Kiu b«: I cet a power o* good from 
+^ r^tvifcs:" H^ did indeied kx* less worn and 
+yv^v^&lt;.t\^^^$?^ ^iswi \fc^^ $he fii^ saw him. His face 
+&gt;fc:j^^ t^(c»$disi^i ;lttfcsl lk.fe hjKk IMX^ ««rt. 
+
+
+
+A STRAGGLER OP '15. 29 
+
+" Have you read that ? " he asked, jerking his 
+head towards the cutting. 
+
+" Yes, uncle, and I'm sure you must be proud 
+of it." 
+
+" Ah, it was a great day for me } A great day ! 
+The Regent was there, and a fine body of a man 
+too ! ' The ridgment is proud of you,' says he. 
+'And I'm proud of the ridgment,' say I. 'A 
+damned good answer too ! ' says he to Lord Hill, 
+and they both bu'st out a-laughin'. But what be 
+you a-peepin' out o' the window for ? " 
+
+"Oh, uncle, here's a regiment of soldiers com- 
+
+I ing down the street with the band playing in 
+
+[• front of them." 
+ 
+
+"A ridgment, eh? Where be my glasses? 
+
+\ Lor, but I can hear the band, as plain as plain ! 
+
+Here's the pioneers an' the drum-major! What 
+
+^ be their number, lass ? " His eyes were shining 
+
+and his bony yellow fingers, like the claws of some 
+
+j fierce old bird, dug into her shoulder. 
+
+"They don't seem to have no number, uncle. 
+They've something wrote on their shoulders. Ox- 
+fordshire, I think it be." 
+
+''Ah, yes! "he growled. "I heard as they'd 
+dropped the numbers and given them newfangled 
+names. There they go, by Jimini! They're 
+young mostly, but they hain't forgot how to 
+march. They have the swing — aye, I'll say that 
+for them. They've got the swing." He gazed 
+
+
+
+A STRAGGLER OP *15. 37 
+
+"Eh, but it's fine! This sunshine makes me 
+think o' the glory to come. You might read me a 
+bit o' the Bible, lass. I find it wonderful sooth- 
+ing." 
+
+" What part would you like, uucle ? " 
+
+''Oh, them wars.'' 
+
+"The wars?" 
+
+"Aye, keep to the wars! Give me the Old 
+Testament for choice. There's more taste to it, to 
+my mind. When parson comes he wants to get 
+oflf to something else ; but it's Joshua or nothing 
+with me. Them Israelites was good soldiers — 
+good growed soldiers, all of em." 
+
+"But, uncle," pleaded Norah, "it's all peace 
+in the next world." 
+
+"No, it ain't, gal." 
+
+" Oh, yes, uncle, surely ! " 
+
+The old corporal knocked his stick irritably 
+upon the ground. ' ' I tell ye it ain' t, gal. I asked 
+parson." 
+
+" Well, what did he say ? " 
+
+" He said there was to be a last fight. He even 
+gave it a name, he did. The battle of Arm — 
+Arm ^" 
+
+"Armageddon." 
+
+"Aye, that's the name parson said. I 'specs 
+the Third Guards'll be there. And the Dook — 
+the Dook'll have a word to say." 
+
+An elderly, grey- whiskered gentleman had been 
+
+
+
+100 ROUND THE RED LAMP. 
+
+blinking creature. He could not forgive it yet for 
+that long night of misery. He caught sight of a 
+white face in the bed and he ran towards it with 
+such love and pity as his speech could find no 
+words for. 
+
+'' Thank God it is over ! Lucy, dear, it was 
+dreadful ! " 
+
+"But I'm so happy now. I never was so 
+happy in my life." 
+
+Her eyes were fixed upon the brown bundle. 
+
+"You mustn't talk," said Mrs. Peyton. 
+
+"But don't leave me," whispered his wife. 
+
+So he sat in silence with his hand in hers. 
+The lamp was burning dim and the first cold 
+light of dawn was breaking through the window. 
+The night had been long and dark but the day 
+was the sweeter and the purer in consequence. 
+London was wakiug up. The roar began to rise 
+from the street. Lives had come and lives had 
+gone, but the great machine was still working out 
+its dim and tragic destiny. 
+
+
+
+
+
+
+* 
+
+m 
+
+
+
+« 
+
+_ *. 
+
+
+
+--• 
+
+
+
+SWEETHEARTS. 
+
+^ \0 &lt;^ 
+
+It is hard for the general practitioner who isles', 
+among his patients both morning and evening, and- 
+sees them in their homes between, to steal time 
+for one little daily breath of cleanly air. To win 
+it he must slip early from his bed and walk out 
+between shuttered shops when it is chill but very 
+clear, and all things are sharply outlined, as in a 
+frost. It is an hour that has a charm of its own, 
+when, but for a postman or a milkman, one has 
+the pavement to oneself, and even the most com- 
+mon thing takes an ever-recurring freshness, as 
+though causeway, and lamp, and signboard had all 
+wakened to the new day. Then even an inland 
+city may seem beautiful, and bear virtue in its 
+smoke- tain ted air. 
+
+But it was by the sea that I lived, in a town 
+that was unlovely enough were it not for its 
+glorious neighbour. And who cares for the town 
+when one can sit on the bench at the headland, 
+and look out over the huge, blue bay, and the 
+yellow scimitar that curves before it. I loved it 
+
+(101) 
+
+
+
+A PHYSIOLOGIST'S WIFE. I43 
+
+in his usual unemotional and somewhat pedantic 
+fashion. "It is the assertion," he said, ''of the 
+liberty of the individual cell as opposed to the 
+cell-commune. It is the dissolution of a co-oper- 
+ative society. The process is one of great inter- 
+est." 
+
+And so one grey morning his co-operative so- 
+ciety dissolved. Very quietly and softly he sank 
+into his eternal sleep. His two physicians felt 
+some slight embarrassment when called upon to 
+fill in his certificate. 
+
+" It is difficult to give it a name," said one. 
+
+"Very," said the other. 
+
+"If he were not such an unemotional man, I 
+should have said that he had died from some sud- 
+den nervous shock—from, in fact, what the vul- 
+gar would call a broken heart." 
+
+"I don't think poor Grey was that sort of a 
+man at all. " 
+
+"Let us call it cardiac, anyhow," said the 
+older physician. 
+
+So they did so. 
+
+
+
+A QUESTION OF DIPLOMACY. 173 
+
+to his brougham. As he drove away, Lady Clara 
+could see that he was already deeply absorbed in 
+a paper-covered novel. 
+
+She pushed back the velvet curtains, and re- 
+turned into the drawing-room. Her daughter 
+stood in the sunlight by the window, tall, fragile, 
+and exquisite, her features and outline not unlike 
+her mother's, but frailer, softer, more delicate. 
+The golden light struck one half of her high-bred, 
+sensitive face, and glimmered upon her thickly- 
+coiled flaxen hair, striking a pinkish tint from 
+her closely-cut costume of fawn-coloured cloth 
+with its dainty cinnamon ruchings. One little 
+soft frill of chiffon nestled round her throat, from 
+which the white, graceful neck and well-poised 
+head shot up like a lily amid moss. Her thin 
+white hands were pressed together, and her blue 
+eyes turned beseechingly upon her mother. 
+
+'' Silly girl ! Silly girl ! " said the matron, an- 
+swering that imploring look. She put her hands 
+upon her daughter's sloping shoulders and drew 
+her towards her. ''It is a very nice place for a 
+short time. It will be a stepping stone. " 
+
+'' But oh ! mamma, in a week ! Poor Arthur ! " 
+
+' ' He will be happy. " 
+
+" What ! happy to part ? " 
+
+*' He need not part. You shall go with him." 
+
+" Oh ! mamma ! " 
+
+"Yes, I say it." 
+
+
+
+A QUESTION OP DIPLOMACY. 177 
+
+The medical baronet whirled round the cord 
+of his pince-nez and pushed out a protesting 
+hand. 
+
+"No, no, but you must be firm on the point of 
+Tangier.'* 
+
+" Having deliberately formed the opinion that 
+Tangier is the best place for our young patient, I 
+do not think that I shall readily change my con- 
+viction." 
+
+" Of course not.** 
+
+''I shall speak to Lord Charles upon the sub- 
+ject now when I go upstairs." 
+
+''Pray do." 
+
+''And meanwhile she will continue her present 
+course of treatment. I trust that the warm Afri- 
+can air may send her back in a few months with 
+all her energy restored." 
+
+He bowed in the courteous, sweeping, old-world 
+fashion which had done so much to build up his 
+ten thousand a year, and, with the stealthy gait 
+of a man whose life is spent in sick-rooms, he fol- 
+lowed the footman upstairs. 
+
+As the red velvet curtains swept back into 
+position, the Lady Ida threw her arms round 
+her mother's neck and sank her face on to her 
+
+bosom. 
+
+" Oh ! mamma, you are a diplomatist I " she 
+
+cried. 
+
+But her mother's expression was rather that 
+
+
+
+A QUESTION OF DIPLOMACY. 181 
+
+you remember what happened to Lord Bellamy's 
+child. She was just Ida's age. That was another 
+case in which Sir William's advice was disre- 
+garded." 
+
+Lord Charles groaned impatiently. 
+
+" I have not disregarded it," said he. 
+
+^'No, no, of course not. I know your strong 
+sense, and your good heart too well, dear. You 
+were very wisely looking at both sides of the 
+question. That is what we poor women cannot 
+do. It is emotion against reason, as I have often 
+heard you say. We are swayed this way and 
+that, but you men are persistent, and so you gain 
+your way with us. But I am so pleased that you 
+have decided for Tangier." 
+
+*'HaveI?" 
+
+"Well, dear, you said that you would not 
+disregard Sir William." 
+
+" Well, Clara, admitting that Ida is to go to 
+Tangier, you will allow that it is impossible for 
+me to escort her ? " 
+
+"Utterly." 
+
+"And for you?" 
+
+" While you are ill my place is by your side." 
+
+" There is your sister ? " 
+
+" She is going to Florida." 
+
+" Lady Dumbarton, then ? " 
+
+"She is nursing her father. It is out of the 
+question." 
+
+
+
+182 ROUND THE RED LAMP. 
+
+*'Well, then, whom can we possibly aski 
+Especially just as the season is commencing. 
+You see, Clara, the fates fight against Sir 
+William." 
+
+His wife rested her elbows against the back 
+of the great red chair, and passed her fingers 
+through the statesman's grizzled curls, stooping 
+down as she did so until her lips were close to 
+his ear. 
+
+"There is Lord Arthur Sibthorpe," said she 
+softly. 
+
+Lord Charles bounded in his chair, and mut- 
+tered a word or two such as were more fre- 
+quently heard from Cabinet Ministers in Lord 
+Melbourne's time than now. 
+
+*'Are you mad, Clara!" he cried. ''What 
+can have put such a thought into your head?" 
+
+" The Prime Minister." 
+
+' ' Who ? The Prime Minister ? " 
+
+" Yes, dear. Now do, do be good ! Or per- 
+haps I had better not speak to you about it any 
+more." 
+
+"Well, I really think that you have gone 
+rather too far to retreat." 
+
+"It was the Prime Minister, then, who told 
+me that Lord Arthur was going to Tangier." 
+
+" It is a fact, though it had escaped my mem- 
+ory for the instant." 
+
+"And then came Sir William with his advice 
+
+
+
+1 
+
+
+
+184 ROUND THE RED LAMP. 
+
+She stood silent and submissive, noting the quick 
+play of thought which peeped from his eyes and 
+lip. There was a sparkle in the one and a twitch 
+of amusement in the other, as he af last glanced 
+up at her. 
+
+''Clara," said he, "deny it if you can! You 
+have ordered the trousseau?'^ 
+
+She gave his ear a little pinch. 
+
+" Subject to your approval," said she. 
+
+"You have written to the Archbishop." 
+
+" It is not posted yet." 
+
+"You have sent a note to Lord Arthur.'' 
+
+" How could you tell that ? " 
+
+"He is downstairs now." 
+
+" No ; but I think that is his brougham." 
+
+Lord Charles sank back with a look of half- 
+comical despair. 
+
+' ' Who is to fight against such a woman ? " he 
+cried. "Oh! if I could send you to NovikoflE! 
+He is too much for any of my men. But, Clara, 
+I cannot have them up here." 
+
+' ' Not for your blessing ? " 
+
+"No, no!" 
+
+" It would make them so happy." 
+
+" I cannot stand scenes." 
+
+" Then I shall convey it to them." 
+
+"And pray say no more about it — to-day, at 
+any rate. I have been weak over the matter." 
+
+" Oh ! Charlie, you who are so strong ! " 
+
+
+
+A QUESTION OF DIPLOMACY. 185 
+
+" Ton have outflanked me, Clara. I., was very 
+well done. I must congratulate you." 
+
+"Well," she murmured, as she kissed him, 
+'* you know I have been studying a very clever 
+diplomatist for thirty years. " 
+
+
+
+13 
+
+
+
+A MEDICAL DOCUMENT. 
+
+Medical men are, as a class, very much too 
+busy to take stock of singular situations or dra- 
+matic events. Thus it happens that the ablest 
+chronicler of their experiences in our literature 
+was a lawyer. A life spent in watching over 
+death-beds — or over birth-beds which are infin- 
+itely more trying — takes something from a man's 
+sense of proportion, as constant strong waters 
+might corrupt his palate. The overstimulated 
+nerve ceases to respond. Ask the surgeon for his 
+best experiences and he may reply that he has 
+seen little that is remarkable, or break away into 
+the technical. But catch him some night when 
+the fire has spurted up and his pipe is reeking, 
+with a few of his brother practitioners for com- 
+pany and an artful question or allusion to set him 
+going. Then you will get some raw, green facts 
+new plucked from the tree of life. 
+
+It is after one of the quarterly dinners of the 
+Midland Branch of the British Medical Associ- 
+ation. Twenty coffee cups, a dozen liqueur 
+
+(18C) 
+
+
+
+A MEDICAL DOCUMENT. 187 
+
+glasses, and a solid bank of blue smoke which 
+swirls slowly along the high, gilded ceiling gives 
+a hint of a successful gathering. But the mem- 
+bers have shredded off to their homes. The line 
+of heavy, bulge-pocketed overcoats and of stetho- 
+scope-bearing top hats is gone from the hotel cor- 
+ridor. Round the fire in the sitting-room three 
+medicos are still lingeriog, however, all smoking 
+and arguing, while a fourth, who is a mere lay- 
+man and young at that, sits back at the table. 
+Under cover of an open journal he is writing furi- 
+ously with a stylographic pen, asking a question 
+in an innocent voice from time to time and so 
+flickering up the conversation whenever it shows 
+a tendency to wane. 
+
+The three men are all of that staid middle age 
+which begins early and lasts late in the profes- 
+sion. They are none of them famous, yet each is 
+of good repute, and a fair type of his particular 
+branch. The portly man with the authoritative 
+manner and the white, vitriol splash upon his 
+cheek is Charley Manson, chief of the Wormley 
+Asylum, and author of the brilliant monograph- 
+Obscure Nervous Lesions in the Unmarried. He 
+always wears his collar high like that, since the 
+half-successful attempt of a student of Revela- 
+tions to cut his throat with a splinter of glass. 
+The second, with the ruddy face and the merry 
+brown eyes, is a general practitioner, a man of 
+
+
+
+A MEDICAL DOCmENT- 1^9 
+
+ing the curved grey ash fram his cigar. ••But 
+you had some ease in your mind. Foster.^ 
+
+" Well, there was only one last week which 
+was new to me. I had been engaged by some 
+people of the name of Silcoe. When the trouble 
+came round I went myself, for they would not 
+hear of an assistant. The husband who was a 
+policeman, was sitting at the head of the bed on 
+the farther side. 'This won't do.' said I. "Oh 
+yes, doctor, it must do,' said she. 'It's quite 
+irregular and he must go,' said L • It's that or 
+nothing,' said she. 'I won't open my mouth or 
+stir a finger the whole night,' said he. So it 
+ended by my allowing him to remain, and there 
+he sat for eight hours on end. She was very 
+good over the matter, but every now and again Tie 
+would fetch a hollow groan, and I noticed that he 
+held his right hand just under the sheet all the 
+time, where I had no doubt that it was clasped 
+by her left. When it was all hapfjily over, 1 
+looked at him and his face was the colour of this 
+cigar ash, and his head had dropped on to the 
+edge of the pillow. Of course I thought he had 
+fainted vnth emotion, and I was just telling my- 
+self what I thought of myself for having been 
+such a fool as to let him stay there, when sud- 
+denly I saw that the sheet over his hand was all 
+soaked with blood ; I whisked it down, and there 
+was the fellow's wrist half cut through. TJio 
+
+
+
+204 ROUND THE RED LAMP. 
+
+'' Only taMng a note or two of your talk." 
+The three medical men laugh as they walk 
+
+towards their overcoats. 
+
+''Why, we've done nothing but talk shop," 
+
+says the general practitioner. ''What possible 
+
+interest can the public take in that ? " 
+
+
+
+LOT NO. 249. 
+
+Of the dealings of Edward Bellingham with 
+William Monkhouse Lee, and of the cause of the 
+great terror of Abercrombie Smith, it may be that 
+no absolute and final judgment will ever be deliv- 
+ered. It is true that we have the full and clear 
+narrative of Smith himself, and such corrobora- 
+tion as he could look for ff©m Thomas Styles the 
+servant, from the Reverend Plumptree Peterson, 
+Fellow of Old's, and from such other people as 
+chanced to gain some passing glance at this or 
+that incident in a singular chain of events. Yet, 
+in the main, the story must rest upon Smith 
+alone, and the most will think that it is more 
+likely that one brain, however outwardly sane, 
+has some subtle warp in its texture, some strange 
+flaw in its workings, than that the path of Nature 
+has been overstepped in open day in so famed a 
+centre of learning and light as the University of 
+Oxford. Yet when we think how narrow and 
+how devious this path of Nature is, how dimly 
+we can trace it, for all our lamps of science, and 
+
+(205) 
+
+
+
+LOT NO. 249. 211 
+
+chap," said he. " What a prejudiced, green-eyed, 
+evil- thinking old man it is ! You have really 
+nothing against the fellow except that." 
+
+"Well, Fve known her ever since she was as 
+long as that cherry-wood pipe, and I don't like to 
+see her taking risks. And it is a risk. He looks 
+beastly. And he has a beastly temper, a venom- 
+ous temper. You remember his row with Long 
+Norton ? " 
+
+"No; you always forget that I am a fresh- 
+man." 
+
+"Ah, it was last winter. Of course. Well, 
+you know the towpath along by the river. There 
+were several fellows going along it, Bellingham in 
+front, when they came on an old market-woman 
+coming the other way. It had been raining — yon 
+know what those fields are like when it has rained 
+— ^and the path ran between the river and a great 
+puddle that was nearly as broad. Well, what 
+does this swine do but keep the i)ath, and push 
+the old girl into the mud, where she and her 
+marketings came to terrible grief. It was a black- 
+guard thing to do, and Long Norton, who is as 
+gentle a fellow as ever stepped, told him what 
+he thought of it. One word led to another, and 
+it ended in Norton laying his stick across the 
+fellow's shoulders. There was the deuce of a 
+fuss about it, and it's a treat to see the way in 
+which Bellingham looks at Norton when they 
+
+
+
+LOT NO. 249. 243 
+
+spent, they had reached the little cottage by the 
+river. Young Lee, limp and dripping like a 
+broken water-plant, was stretched upon the sofa, 
+the green scum of the river upon his black hair, 
+and a fringe of white foam upon his leaden-hued 
+lips. Beside him knelt his fellow- student Har- 
+rington, endeavouring to chafe some warmth back 
+into his rigid limbs. 
+
+*' I think there's life in him," said Smith, with 
+his hand to the lad's side. "Put your watch 
+glass to his lips. Yes, there's dimming on it. 
+You take one arm, Hastie. Now work it as 1 do, 
+and we'll soon pull him round." 
+
+For ten minutes they worked in silence, inflat- 
+ing and depressing the chest of the unconscious 
+man. At the end of that time a shiver ran 
+through his body, his lips trembled, and he 
+opened his eyes. The three students burst out 
+into an irrepressible cheer. 
+
+"Wake up, old chap. You've frightened us 
+quite enough." 
+
+"Have some brandy. Take a sip from the 
+flask." 
+
+" He's all right now," said his companion Har- 
+rington. " Heavens, what a fright I got ! I was 
+reading here, and he had gone for a stroll as 
+far as the river, when I heard a scream and a 
+splash. Out I ran, and by the time that I could 
+find him and fish him out, all life seemed to have 
+
+
+
+LOT NO. 249. 247 
+
+Smith saw it, and he could have knocked him 
+down for it. 
+
+'' You'll be sorrier still to hear that Monkhouse 
+Lee is doing very well, and is out of all danger," 
+he answered. "Your hellish tricks have not 
+come off this time. Oh, you needn't try to brazen 
+it out. I know all about it." 
+
+Bellingham took a step back from the angry 
+student, and half-closed the door as if to protect 
+himself. 
+
+"You are mad," he said. "What do you 
+mean ? Do you assert that I had anything to do 
+with Lee's accident ? " 
+
+" Yes," thundered Smith. " You and that bag 
+of bones behind you ; you worked it between you. 
+I tell you what it is. Master B., they have given 
+up burning folk like you, but we still keep a 
+hangman, and, by George ! if any man in this col- 
+lege meets his death while you are here, I'll have 
+you up, and if you don't swing for it, it won't be 
+my fault. You'll find that your filthy Egyptian 
+tricks won't answer in England." 
+
+"You're a raving lunatic," said Bellingham. 
+
+"All right. You just remember what I 
+say, for you'll find that I'll be better than my 
+word. " 
+
+The door slammed, and Smith went fuming up 
+to his chamber, where he locked the door upon 
+the inside, and spent half the night in smoking 
+
+
+
+250 ROUND THE RED LAMP. 
+
+thrown. Thank God, the door was ajar. He 
+could see the thin bar of light which shot from 
+the lamp in the hall. Nearer yet sounded the 
+clatter from behind. He heard a hoarse gurgling 
+at his very shoulder. With a shriek he flnng 
+himself against the door, slammed and bolted it 
+behind him, and sank half -fainting on to the hall 
+chair. 
+
+"My goodness. Smith, what's the matter?" 
+asked Peterson, appearing at the door of his 
+study. 
+
+*' Give me some brandy ! " 
+
+Peterson disappeared, and came rushing oat 
+again with a glass and a decanter. 
+
+" You need it," he said, as his visitor drank off 
+what he poured out for him. "Why, man, you 
+are as white as a cheese." 
+
+Smith laid down his glass, rose up, and took a 
+deep breath. 
+
+" I am my own man again now," said he. *'I 
+was never so unmanned before. But, with your 
+leave, Peterson, I will sleep here to-night, for I 
+don't think I could face that road again except by 
+daylight. It's weak, I know, but I can't help it." 
+
+Peterson looked at his visitor with a very 
+questioning eye. 
+
+"Of course you shall sleep here if you wish. 
+I'll tell Mrs. Burney to make up the spare bed. 
+Where are you off to now ? " 
+
+
+
+256 ROUND THE RED LAMP. 
+
+"My dear Smith, you are talking wildly. Let 
+me beg you to go to bed." 
+
+'' On the contrary, I never spoke so deliberately 
+in my life. And I will promise to go to bed the 
+moment you have signed it." 
+
+''But what is it?" 
+
+"It is a statement of all that I have been tell- 
+ing you to-night. I wish you to witness it." 
+
+"Certainly," said Peterson, signing his name 
+under that of his companion. "There you aie! 
+But what is the idea ? " 
+
+"You will kindly retain it, and produce it in 
+case I am arrested." 
+
+' ' Arrested ? For what ? " 
+
+" For murder. It is quite on the cards. I wish 
+to be ready for every event. There is only one 
+course open to me, and I am determined to 
+take it." 
+
+" For Heaven's sake, don't do anything rash ! " 
+
+"Believe me, it would be far more rash to 
+adopt any other course. I hope that we won't 
+need to bother you, but it will ease my mind 
+to know that you have this statement of my 
+motives. And now I am ready to take your ad- 
+vice and to go to roost, for I want to be at my 
+be^t in the morning." 
+
+Abercrombie Smith was not an entirely pleas- 
+ant man to have as an enemy. Slow and easy- 
+
+
+
+LOT NO. 249. 259 
+
+his watch upon the table, drew out his pistol, 
+cocked it, and laid it in his lap. Then he took 
+the long amputating knife from his bosom, and 
+threw it down in front of Bellingham. 
+
+"Now, then," said he, "just get to work and 
+cut up that mummy." 
+
+"Oh, is that it?" said Bellingham with a 
+sneer. 
+
+" Yes, that is it. They tell me that the law 
+can't touch you. But I have a law that will set 
+matters straight. If in five minutes you have not 
+set to work, I swear by the God. who made me 
+that I will put a bullet through your brain ! " 
+
+" You would murder me ? " 
+
+Bellingham had half risen, and his face was 
+the colour of putty. 
+
+"Yes." 
+
+" And for what ? " 
+
+"To stop your mischief. One minute has 
+gone. " 
+
+"But what have I done ? " 
+
+" I know and you know." 
+
+"This is mere bullying." 
+
+" Two minutes are gone." 
+
+" But you must give reasons. You are a mad- 
+man — a dangerous madman. Why should I de- 
+stroy my own property ? It is a .valuable mum- 
+my." 
+
+" You must cut it up, and you must burn it." 
+
+
+
+262 ROUND THE RED LAMP. 
+
+pretty well drawn your teeth. You'll hear from 
+me again, if you return to your old tricks. And 
+now good-morning, for I must go back to my 
+studies." 
+
+And such is the narrative of Abercrombie 
+Smith as to the singular events which occurred 
+in Old College, Oxford, in the spring of '84. As 
+Bellingham left the university immediately after- 
+wards, and was last heard of in the Soudan, there 
+is no one who can contradict his statement. But 
+the wisdom of men is small, and the ways of 
+nature are strange, and who shall put a bound to 
+the dark things which may be found by those 
+who seek for them ? 
+
+
+
+
+
+
+THE LOS AMIGOS FIASCO. 
+
+I USED to be the leading practitioner of Los 
+Amigos. Of course, everyone has heard of the 
+great electrical generating gear there. The town 
+is wide spread, and there are dozens of little town- 
+lets and villages all round, which receive their 
+supply from the same centre, so that the works 
+are on a very large scale. The Los Amigos folk 
+say that they are the largest upon earth, but then 
+we claim that for everything in Los Amigos ex- 
+cept the gaol and the death-rate. Those are said 
+to be the smallest. 
+
+Now, with so fine an electrical supply, it 
+seemed to be a sinful waste of hemp that the Los 
+Amigos criminals should perish in the old-fashioned 
+manner. And then came the news of the electro- 
+cutions in the East, and how the results had not 
+after all been so instantaneous as had been hoped. 
+The Western Engineers raised their eyebrows 
+when they read of the puny shocks by which 
+these men had perished, and they vowed in Los 
+Amigos that when an irreclaimable came their 
+
+(268) 
+
+
+
+THE DOCTORS OF HOYLAND. 295 
+
+months, that a weary sadness lurked always in 
+the depths of his blue eyes, and that he was less 
+concerned than ever with the eligible young ladies 
+whom chance, or their careful country mammas, 
+placed in his way. 
+
+
+
+THE SURGEON TALKS. 307 
+
+''And a doctor has very much to be thankful 
+for also. Don't you ever forget it. It is such a 
+pleasure to do a little good that a man should pay 
+for the privilege instead of being paid for it. Still, 
+of course, he has his home to keep up and his wife 
+and children to support. But his patients are his 
+friends — or they should be so. He goes from 
+house to house, and his step and his voice are 
+loved and welcomed in each. What could a man 
+ask for more than that ? And besides, he is forced 
+to be a good man. It is impossible for him to be 
+anything else. How can a man spend his whole 
+life in seeing suffering bravely borne and yet re- 
+main a hard or a vicious man ? It is a noble, gen- 
+erous, kindly profession, and you youngsters have 
+got to see that it remains so." 
+
+
+
+THE END. 
+
+
+
+( i 
+
+
+
+I I .'-n-.i 
+
+
+
+':ii 
+
+
+
+A 
+
+
+
+D. APPLETON &amp; CO.'S PUBLICATIONS. 
+
+« 
+
+Books by Mrs. Everard Cotes (Sara Jeannette Duncan). 
+
+DAUGHTER OF TO-DAY. A Novel. i2mo. 
+Cloth, f 1.5a 
+
+
+
+" The book n well worth the attention it demands, and if the conviction at bst 
+slowly dawns upon the reader that it contains a purpose, it is one m-hich has be«3i pro- 
+duced by the ineviuble law of reaction, and is deveriy manipulated ."-^Ltfnu^ 
+A tken^utm . 
+
+"Thu novel is a strong and seri-ius piece of work ; one of a kind that is getting too 
+rare in these days of univenal crankiness. The heroine — for we suppose that Ufrida 
+is entitled to that p!a:e despite the superior attractions (cr Kendal of Janet Cardiff— 
+reminds one not unrcmotely ^f Mr. Hardy's women." — Bos ten Courier. 
+
+" A new and capital story, full of quiet, happy touches of humor." — Pkiladtlpkia 
+Press. 
+
+
+
+A 
+
+
+
+SOCIAL DEPARTURE: Haw Orthodocia and I 
+
+Went Round the World by Ourselves, With ill Illustrations 
+by F. H. TowxsEND. i2mo. Paper, 75 cents; cloth, $1.75. 
+
+'* Widely read anil prai^d on both sides of the Atlantic and Pacific, with scores of 
+illustrations which fit the text exacdy and show the mind of artist and writer in unison." 
+— New York Extning Pest. 
+
+*' It is to be doubted whether another hook can be found so thoroughly amusing 
+rom beginning to end" — Hoston Daily Adn^irtiser. 
+
+" A brighter, met Her. more entirely charming book would be, indeed, difficult to 
+find."— .S/. Louis Republic. 
+
+
+
+A 
+
+
+
+N AMERICAN GIRL IN LONDON, With 80 
+
+Illustrations by F. H. Townsend. i2mo. Paper, 75 cents; 
+
+cloth, *i.50. '  
+
+" One of the most naive and entertaining books of the season.**— ^Vt^w York OS- 
+serr'er. 
+
+" The raciness and breeziness which made ' A Social Departure,' by the same 
+author, last seas n. the best-read and most-talked-of book of travel for many a year, 
+l&gt;ermejte the new book, and appear between the lines of evciy page." — Breoklyn 
+S ta 'idard- i 'nion. 
+
+'* So spri&gt;;htly a book as this, on life in I&gt;ondon as observed by an American, has 
+never before been written."- - PAi/tuir/p A/a Bulletin. 
+
+'* Ovemmning with cleverness and good-will." — Xtu: York Commercial Adver- 
+tiser. 
+
+y^IIE SIMPLE ADVENTURES OF A MEM- 
+
+M. SAHIB. With 37 Illustrations by F. H. Townsend. i2mo. 
+Cloth. *i.50. 
+
+" It is like travelinp^ without leaving one's armchair to retd it Miss Duncan has 
+the descriptive and narrative f;ift in large measure, and she brings vividly before us 
+the street scenes, the interiors, the beuilderingly queer natives, the gayeties of lh« 
+Kn^lish colony." — Philadelphia Telegraph. 
+
+" Another witty and delightful book." — Philadelphia Times. 
+
+
+
+New York : D. APPLETON &amp; CO., 72 Fifth Avenue. 
+
+
+
+« 
+
+
+
+1 
+
+I 
+
+t 
+
+
+
+</pre>        </div><!--/.container-->
+      </main>
+    </div><!--/#wrap-->
+    
+    <!-- Timing ...
+     rendered on: www28.us.archive.org
+ seconds diff sec               message   stack(file:line:function)
+=========================================================
+  0.0000   0.0000         petabox start   var/cache/petabox/petabox/www/sf/download.php:1:require
+                                             |common/ia:55:require_once
+                                             |setup.php:344:log
+  0.0014   0.0014      call get_redis()   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:422:get_json_obj
+                                             |Metadata.inc:1794:direct
+                                             |Caching/AbstractReactiveCache.inc:281:do_recompute
+                                             |AbstractReactiveCache.inc:392:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:1833:_get_json_obj
+                                             |Metadata.inc:1953:log
+  0.0082   0.0068      redis_read start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:422:get_json_obj
+                                             |Metadata.inc:1794:direct
+                                             |Caching/AbstractReactiveCache.inc:281:do_recompute
+                                             |AbstractReactiveCache.inc:392:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:1833:_get_json_obj
+                                             |Metadata.inc:2026:fetch
+                                             |Metadata/RecordServer.inc:137:execute
+                                             |RecordServer/FetchRecordOp.inc:44:log
+  0.0134   0.0052     redis_read finish   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:422:get_json_obj
+                                             |Metadata.inc:1794:direct
+                                             |Caching/AbstractReactiveCache.inc:281:do_recompute
+                                             |AbstractReactiveCache.inc:392:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:1833:_get_json_obj
+                                             |Metadata.inc:2026:fetch
+                                             |Metadata/RecordServer.inc:137:execute
+                                             |RecordServer/FetchRecordOp.inc:50:log
+  0.0303   0.0170   begin session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:989:head
+                                             |common/Nav.inc:116:__construct
+                                             |Nav.inc:185:session_start
+                                             |Cookies.inc:61:log
+  0.0305   0.0001    done session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:989:head
+                                             |common/Nav.inc:116:__construct
+                                             |Nav.inc:185:session_start
+                                             |Cookies.inc:67:log
+  0.1065   0.0760              bug dump   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:1021:footer
+                                             |common/setup.php:147:footer
+                                             |Nav.inc:1425:dump
+                                             |Bug.inc:114:log
+    -->
+    <script type="text/javascript">
+if (window.archive_analytics) {
+  var vs = window.archive_analytics.get_data_packets();
+  for (var i in vs) {
+    vs[i]['cache_bust']=Math.random();
+    vs[i]['server_ms']=106;
+    vs[i]['server_name']="www28.us.archive.org";
+      }
+
+  if ($(".more_search").size()>0) {
+    window.archive_analytics.send_scroll_fetch_base_event();
+  }
+}
+</script>
+      </div>
+  </body>
+</html>
+    
